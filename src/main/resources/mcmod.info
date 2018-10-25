@@ -1,0 +1,16 @@
+[
+{
+  "modid": "waterproof2",
+  "name": "Waterproof 2: And This Time, It's Serious",
+  "description": "Redstone that's not so damn fragile.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["quaternary"],
+  "credits": "Vazkii for original 1.7, and Pfaeff for original 1.5 (?)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
