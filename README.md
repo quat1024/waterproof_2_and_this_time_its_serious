@@ -5,4 +5,4 @@ Continuation/Port/Whateveridk of Vazkii's 1.7 [Waterproof](https://github.com/Va
 
 ### License shit
 
-CC-BY-NC-SA in accordance with Pfaeff and Vazkii's licensing :D
+CC-BY-NC-SA in accordance with the original :D
